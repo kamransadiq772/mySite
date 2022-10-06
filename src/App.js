@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      kamran sadiq
+      kamran sadiq is developement
     </div>
   );
 }
